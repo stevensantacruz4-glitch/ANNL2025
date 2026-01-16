@@ -1,0 +1,13 @@
+warning: in the working copy of 'taller 2.ipynb', LF will be replaced by CRLF the next time Git touches it
+
+Usuario-Lab@39681900D12P2 MINGW64 ~/Downloads/ANNL2025 (main)
+$ git commit -m ¨Actualización¨
+[main 7c4c330] ¨Actualización¨
+ 1 file changed, 489 insertions(+)
+ create mode 100644 taller 2.ipynb
+
+Usuario-Lab@39681900D12P2 MINGW64 ~/Downloads/ANNL2025 (main)
+$ git push 
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 24 threads
